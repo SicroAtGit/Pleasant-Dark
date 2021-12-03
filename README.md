@@ -1,5 +1,7 @@
 # DarkColor-Scheme for PureBasic
 
+https://github.com/SicroAtGit/PB-DarkColor-Scheme
+
 > A dark, clear and pleasant color scheme.
 
 ## How it looks
