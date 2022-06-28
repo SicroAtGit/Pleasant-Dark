@@ -1,8 +1,8 @@
-# DarkColor-Scheme for PureBasic
+# Pleasant-Dark
 
-https://github.com/SicroAtGit/PB-DarkColor-Scheme
+https://github.com/SicroAtGit/Pleasant-Dark
 
-> A dark, clear and pleasant color scheme.
+> A dark, clear and pleasant color scheme for PureBasic.
 
 ## How it looks
 
